@@ -1,0 +1,712 @@
+{
+  "version": 1,
+  "design": {
+    "width": 1920,
+    "height": 1080,
+    "minimumWidth": 1280,
+    "minimumHeight": 720
+  },
+  "baseUrl": "assets/fantasy/",
+  "entries": [
+    {
+      "id": "amulet",
+      "file": "amulet.png",
+      "width": 1254,
+      "height": 1254,
+      "alpha": true,
+      "category": "symbol",
+      "bytes": 1300036,
+      "sha256": "faa58ee6362105cb97e7b4d339fb9dbb7b5a7b3b7675f4cf536fe92398c259db"
+    },
+    {
+      "id": "background",
+      "file": "background.png",
+      "width": 1672,
+      "height": 941,
+      "alpha": false,
+      "category": "background",
+      "bytes": 2427380,
+      "sha256": "cc6f8b046b645b35c239996b99ee2b768d7606af933c138031911cc5076d3d11"
+    },
+    {
+      "id": "bonus-air",
+      "file": "bonus-air.png",
+      "width": 1024,
+      "height": 1536,
+      "alpha": false,
+      "category": "bonus",
+      "bytes": 2925124,
+      "sha256": "0b1dca7810de67371fb42414f56763d799719ca0b56d00e3d3733a358aeb817b"
+    },
+    {
+      "id": "bonus-earth",
+      "file": "bonus-earth.png",
+      "width": 1024,
+      "height": 1536,
+      "alpha": false,
+      "category": "bonus",
+      "bytes": 3006723,
+      "sha256": "aca1cfdceac5df4848e0b905217527c557f153116ab1df14e3d15bc53d2502a8"
+    },
+    {
+      "id": "bonus-fire",
+      "file": "bonus-fire.png",
+      "width": 1024,
+      "height": 1536,
+      "alpha": false,
+      "category": "bonus",
+      "bytes": 2750141,
+      "sha256": "61655a11427cb7944aade8851dddf377d43dc3213e43fb79f7321439e3850cc3"
+    },
+    {
+      "id": "bonus-water",
+      "file": "bonus-water.png",
+      "width": 1024,
+      "height": 1536,
+      "alpha": false,
+      "category": "bonus",
+      "bytes": 2830334,
+      "sha256": "b046eb0d05b88b4c2e8bcbb6ef24f499b917541a9f3580e0906418630a2d315a"
+    },
+    {
+      "id": "button",
+      "file": "button.svg",
+      "width": 320,
+      "height": 110,
+      "alpha": true,
+      "category": "interface",
+      "bytes": 2876,
+      "sha256": "0cb53e2cad35571de57f424d21f4ea61178f8fd32c0b6e56c4dd6a46fae27c69"
+    },
+    {
+      "id": "celebration-100x",
+      "file": "celebration-100x.svg",
+      "width": 1200,
+      "height": 600,
+      "alpha": true,
+      "category": "effect",
+      "bytes": 6442,
+      "sha256": "45d6eecf7cd6042f573516b386b572393d7f2f828f7e62ca245e70a3e6aec3b2"
+    },
+    {
+      "id": "celebration-10x",
+      "file": "celebration-10x.svg",
+      "width": 1200,
+      "height": 600,
+      "alpha": true,
+      "category": "effect",
+      "bytes": 6416,
+      "sha256": "2a4816b4e40d9b7b8eb2f542ee9d7909b36741ea784410ca60ebf1917e0b0066"
+    },
+    {
+      "id": "celebration-50x",
+      "file": "celebration-50x.svg",
+      "width": 1200,
+      "height": 600,
+      "alpha": true,
+      "category": "effect",
+      "bytes": 6427,
+      "sha256": "88b3c9329acce178afd1e217c970bbda2a61eb7bf920b6df3fffd0212967abb3"
+    },
+    {
+      "id": "celebration-big-v3",
+      "file": "celebration-big-v3.png",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "category": "effect",
+      "bytes": 2805604,
+      "sha256": "d9fb080f255f80e818280de53adb2cb78f9effee6653b596f592f3a0a74aa339"
+    },
+    {
+      "id": "celebration-epic-v3",
+      "file": "celebration-epic-v3.png",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "category": "effect",
+      "bytes": 3008872,
+      "sha256": "26b08349f8eeb3ae6726761b769f725b38cc242e7a6e0f4e361c6ac81f6acb51"
+    },
+    {
+      "id": "celebration-mega-v3",
+      "file": "celebration-mega-v3.png",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "category": "effect",
+      "bytes": 2909950,
+      "sha256": "93925681524805ccdc0e3a16299e50f1e338712178ee5dc465bc9389297fa802"
+    },
+    {
+      "id": "fx-air-gust-v3",
+      "file": "fx-air-gust-v3.png",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "category": "effect",
+      "bytes": 1870304,
+      "sha256": "4253aabfd5776b0729764423d538ce277fb5b3ee19968ccfd766d7b1552fcc9a"
+    },
+    {
+      "id": "fx-air",
+      "file": "fx-air.png",
+      "width": 1774,
+      "height": 887,
+      "alpha": true,
+      "category": "effect",
+      "bytes": 1568145,
+      "sha256": "377da5b231e039360fc5ad2d5deb8382af3ba6b10336658b5a385d91dbf4c134"
+    },
+    {
+      "id": "fx-earth",
+      "file": "fx-earth.png",
+      "width": 1349,
+      "height": 1166,
+      "alpha": true,
+      "category": "effect",
+      "bytes": 1928809,
+      "sha256": "f895b260e4899b6fee9881bb3fcb4f516463c5f4340c3e978b4cfabf8ba73d45"
+    },
+    {
+      "id": "fx-fire-beam-v3",
+      "file": "fx-fire-beam-v3.png",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "category": "effect",
+      "bytes": 1163642,
+      "sha256": "ec7f6912aeba2eb951ef6c22dae056f722ad8c0e991c1fa36eae5d1d96be7d5e"
+    },
+    {
+      "id": "fx-fire-burn-v3",
+      "file": "fx-fire-burn-v3.png",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "category": "effect",
+      "bytes": 2053508,
+      "sha256": "10077903e774734f6c2e749d35f336953107d2dc2a52a696f5392a47be599c9a"
+    },
+    {
+      "id": "fx-fire",
+      "file": "fx-fire.png",
+      "width": 1312,
+      "height": 1199,
+      "alpha": true,
+      "category": "effect",
+      "bytes": 1576003,
+      "sha256": "0b1afac7b7a17fd6ded67a5129cdf1e2470f69b2c6da1716e71c6aae93afd4ea"
+    },
+    {
+      "id": "fx-fireball-v3",
+      "file": "fx-fireball-v3.png",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "category": "effect",
+      "bytes": 1761246,
+      "sha256": "b8df2ff3cceb3c44aa1be7780fd77dd6e68f7a7fa965eb38e79f4d322f3fd2ab"
+    },
+    {
+      "id": "fx-spark",
+      "file": "fx-spark.svg",
+      "width": 64,
+      "height": 64,
+      "alpha": true,
+      "category": "effect",
+      "bytes": 1052,
+      "sha256": "53463703216e340f1a9eac727116acc17188c7f13bddaddeae01404665d9b32c"
+    },
+    {
+      "id": "fx-water",
+      "file": "fx-water.png",
+      "width": 1366,
+      "height": 1151,
+      "alpha": true,
+      "category": "effect",
+      "bytes": 1580360,
+      "sha256": "c80c1e08a62656744b4d8a401e248fc920b453bc4aaea416a03add824db5d1ce"
+    },
+    {
+      "id": "hud",
+      "file": "hud.svg",
+      "width": 1920,
+      "height": 130,
+      "alpha": true,
+      "category": "interface",
+      "bytes": 3558,
+      "sha256": "ed72322a32df5e0d5ff79d3721d472d3eaafcc1a44ad9f14611cf3522186883c"
+    },
+    {
+      "id": "icon-close",
+      "file": "icon-close.svg",
+      "width": 64,
+      "height": 64,
+      "alpha": true,
+      "category": "interface",
+      "bytes": 1196,
+      "sha256": "8d32abd47479d418d10536b16ddc5764b1e818e2ccc6895a6b833d58acd29e31"
+    },
+    {
+      "id": "icon-fullscreen",
+      "file": "icon-fullscreen.svg",
+      "width": 64,
+      "height": 64,
+      "alpha": true,
+      "category": "interface",
+      "bytes": 1220,
+      "sha256": "d7d73392da4a7fce4c4300cc4b3eef8c25d65130b858905ab1d0c5ac25684f17"
+    },
+    {
+      "id": "icon-help",
+      "file": "icon-help.svg",
+      "width": 64,
+      "height": 64,
+      "alpha": true,
+      "category": "interface",
+      "bytes": 1223,
+      "sha256": "f6bba7cf620212d46d4886cb9094cd76fcc9eef73e21f4cf09dffbc14af796e6"
+    },
+    {
+      "id": "icon-minus",
+      "file": "icon-minus.svg",
+      "width": 64,
+      "height": 64,
+      "alpha": true,
+      "category": "interface",
+      "bytes": 1181,
+      "sha256": "2a5672e9ded46e5bbbd3bb034513bf9f6b44b7c496d2c831973c9af502c462d3"
+    },
+    {
+      "id": "icon-mute",
+      "file": "icon-mute.svg",
+      "width": 64,
+      "height": 64,
+      "alpha": true,
+      "category": "interface",
+      "bytes": 1224,
+      "sha256": "84f6ad8155e00c7aa93376241ecbf4d3b56a469fc5a3076646c1e824a1306728"
+    },
+    {
+      "id": "icon-next",
+      "file": "icon-next.svg",
+      "width": 64,
+      "height": 64,
+      "alpha": true,
+      "category": "interface",
+      "bytes": 1190,
+      "sha256": "60f7e86028fcf2cb90d1ce344f1a7a256bbec79121b1a3c70b530ef5dd859ecc"
+    },
+    {
+      "id": "icon-plus",
+      "file": "icon-plus.svg",
+      "width": 64,
+      "height": 64,
+      "alpha": true,
+      "category": "interface",
+      "bytes": 1190,
+      "sha256": "a7d1d73c9e46845dd879c6b6777182d501a27c936d073a76ec429571a59f0474"
+    },
+    {
+      "id": "icon-previous",
+      "file": "icon-previous.svg",
+      "width": 64,
+      "height": 64,
+      "alpha": true,
+      "category": "interface",
+      "bytes": 1190,
+      "sha256": "ac25c488a892f536175f6155bae5e900b11deca1c899f0111d2ba03f9dd445cc"
+    },
+    {
+      "id": "icon-sound",
+      "file": "icon-sound.svg",
+      "width": 64,
+      "height": 64,
+      "alpha": true,
+      "category": "interface",
+      "bytes": 1218,
+      "sha256": "85fff1e9a8d1f576952e7207ff725fb045453de18e77b533720ce3c438e30ec8"
+    },
+    {
+      "id": "locked-wild",
+      "file": "locked-wild.svg",
+      "width": 240,
+      "height": 220,
+      "alpha": true,
+      "category": "effect",
+      "bytes": 1293,
+      "sha256": "74613c5deea1021ffbaa01263236f2cbed4096b03a6d6ab4ef922e5a4cea53db"
+    },
+    {
+      "id": "multiplier-badge",
+      "file": "multiplier-badge.svg",
+      "width": 180,
+      "height": 72,
+      "alpha": true,
+      "category": "interface",
+      "bytes": 2932,
+      "sha256": "934b3959dc40a4c8182781b2ed3e81b5dc6e4403244c33df1b90befa6f0bd80e"
+    },
+    {
+      "id": "page-dot",
+      "file": "page-dot.svg",
+      "width": 32,
+      "height": 32,
+      "alpha": true,
+      "category": "interface",
+      "bytes": 1181,
+      "sha256": "2a9dfd78bb1ba7bb17c45341d35766cf6213c5bbf0fa129a03047b7a7e02ea67"
+    },
+    {
+      "id": "panel",
+      "file": "panel.svg",
+      "width": 1000,
+      "height": 680,
+      "alpha": true,
+      "category": "interface",
+      "bytes": 2871,
+      "sha256": "d667882f2ce706edcaf15c1de66b82c59ca66c2c4f38aae55c97819ea2e423c0"
+    },
+    {
+      "id": "payline-1",
+      "file": "payline-1.svg",
+      "width": 1200,
+      "height": 660,
+      "alpha": true,
+      "category": "effect",
+      "bytes": 2294,
+      "sha256": "d5876ed3cf165864ed369b18129383e791b7e102e571ce0434a99b1bfc857e41"
+    },
+    {
+      "id": "payline-10",
+      "file": "payline-10.svg",
+      "width": 1200,
+      "height": 660,
+      "alpha": true,
+      "category": "effect",
+      "bytes": 2294,
+      "sha256": "84c089138cf5284ff5ef18d73c7f79be17bb4d7a2485d31c2526e071c4af7133"
+    },
+    {
+      "id": "payline-2",
+      "file": "payline-2.svg",
+      "width": 1200,
+      "height": 660,
+      "alpha": true,
+      "category": "effect",
+      "bytes": 2294,
+      "sha256": "cbb6eb119e7b3b1bc4585b8e39f4757d9d52fa6e04902580884ca90b142d9abe"
+    },
+    {
+      "id": "payline-3",
+      "file": "payline-3.svg",
+      "width": 1200,
+      "height": 660,
+      "alpha": true,
+      "category": "effect",
+      "bytes": 2294,
+      "sha256": "79ac158703586e7cd745c0ba2cdf09917541ce455544573998531a6f373d29b8"
+    },
+    {
+      "id": "payline-4",
+      "file": "payline-4.svg",
+      "width": 1200,
+      "height": 660,
+      "alpha": true,
+      "category": "effect",
+      "bytes": 2294,
+      "sha256": "85b0b51ea7ae68ca3dc65e6586be400aea432311fb01f1814165ad1e1848f31f"
+    },
+    {
+      "id": "payline-5",
+      "file": "payline-5.svg",
+      "width": 1200,
+      "height": 660,
+      "alpha": true,
+      "category": "effect",
+      "bytes": 2294,
+      "sha256": "34c74c9b5459734862e358a2c0b15913ab1d1dccb8b5e0786e6018854a927cb6"
+    },
+    {
+      "id": "payline-6",
+      "file": "payline-6.svg",
+      "width": 1200,
+      "height": 660,
+      "alpha": true,
+      "category": "effect",
+      "bytes": 2294,
+      "sha256": "617dac97b7c715f6b165c1af6b17fd23020850c3b6c5b47e6ee7e9d3fac9ebbc"
+    },
+    {
+      "id": "payline-7",
+      "file": "payline-7.svg",
+      "width": 1200,
+      "height": 660,
+      "alpha": true,
+      "category": "effect",
+      "bytes": 2294,
+      "sha256": "d29d23bd276ff1db7b42140a6cc2c070c16be910d7108b13a641946a99ccf6b0"
+    },
+    {
+      "id": "payline-8",
+      "file": "payline-8.svg",
+      "width": 1200,
+      "height": 660,
+      "alpha": true,
+      "category": "effect",
+      "bytes": 2294,
+      "sha256": "c42cc45fbf0b7beb53572a930cae26cb6c5b694a8e517e06288a9bc65f0c44c8"
+    },
+    {
+      "id": "payline-9",
+      "file": "payline-9.svg",
+      "width": 1200,
+      "height": 660,
+      "alpha": true,
+      "category": "effect",
+      "bytes": 2294,
+      "sha256": "60103f34478283bca7d2d4267b5980dda6e52120e5c32782913bbe736fde9f75"
+    },
+    {
+      "id": "potion",
+      "file": "potion.png",
+      "width": 1254,
+      "height": 1254,
+      "alpha": true,
+      "category": "symbol",
+      "bytes": 1336882,
+      "sha256": "678624e95bf15514b14dd4c74df0bf010bfe8f87453455e32df80563902bd721"
+    },
+    {
+      "id": "reel-bed",
+      "file": "reel-bed.svg",
+      "width": 1200,
+      "height": 660,
+      "alpha": true,
+      "category": "interface",
+      "bytes": 1035,
+      "sha256": "0992a61bf109a1dbe9482292cbf2c97494231361adf77b189d6da571fa7040d7"
+    },
+    {
+      "id": "reel-frame",
+      "file": "reel-frame.svg",
+      "width": 1260,
+      "height": 720,
+      "alpha": true,
+      "category": "interface",
+      "bytes": 11938,
+      "sha256": "8dfec2e5726e1aceafe8ff7b94b64da9f34176808dca639717868a27b0fc4eab"
+    },
+    {
+      "id": "rune-10",
+      "file": "rune-10.png",
+      "width": 1254,
+      "height": 1254,
+      "alpha": true,
+      "category": "symbol",
+      "bytes": 1988173,
+      "sha256": "042a497a8e7e0a9ca48a7243119a269761030484d64b6c089c4b4664925f1225"
+    },
+    {
+      "id": "rune-j",
+      "file": "rune-j.png",
+      "width": 1254,
+      "height": 1254,
+      "alpha": true,
+      "category": "symbol",
+      "bytes": 1558766,
+      "sha256": "5f413d43f5c0eb64a0332a4adb6f0bc3b787a84930ebee68f33ddaa7d74269d3"
+    },
+    {
+      "id": "rune-k",
+      "file": "rune-k.png",
+      "width": 1254,
+      "height": 1254,
+      "alpha": true,
+      "category": "symbol",
+      "bytes": 1810351,
+      "sha256": "45374967cfc71878cc9bdc8076645c2d607a08678cf400b831aaf8a7776f2854"
+    },
+    {
+      "id": "rune-q",
+      "file": "rune-q.png",
+      "width": 1254,
+      "height": 1254,
+      "alpha": true,
+      "category": "symbol",
+      "bytes": 1703022,
+      "sha256": "9a8fc8c37bbb755ab2413c080c2e6ac647e39de899edd159a31b9fd0ba40df78"
+    },
+    {
+      "id": "scatter",
+      "file": "scatter.png",
+      "width": 1254,
+      "height": 1254,
+      "alpha": true,
+      "category": "symbol",
+      "bytes": 2144739,
+      "sha256": "cfd05cd1796668cadaaf75f3c7633f9f4c363fde2cbc4eba3882a801d5da5b7a"
+    },
+    {
+      "id": "slide-1-free-spins",
+      "file": "slide-1-free-spins.png",
+      "width": 1920,
+      "height": 1080,
+      "alpha": true,
+      "category": "instruction",
+      "bytes": 2226907,
+      "sha256": "b104e53258db8473d32011861a3b7431325bb4e058dc4015168f1cf59c3573fe"
+    },
+    {
+      "id": "slide-2-paytable",
+      "file": "slide-2-paytable.png",
+      "width": 1920,
+      "height": 1080,
+      "alpha": true,
+      "category": "instruction",
+      "bytes": 425306,
+      "sha256": "eb09d54c231ab674ca0507b219afce6818a8272fffd72df2cb043b3682682048"
+    },
+    {
+      "id": "slide-3-paylines",
+      "file": "slide-3-paylines.png",
+      "width": 1920,
+      "height": 1080,
+      "alpha": true,
+      "category": "instruction",
+      "bytes": 288894,
+      "sha256": "415a2d7770380a1f1a0abc7ea3075839e7a39d07626f4dd826a3189690fe7ebc"
+    },
+    {
+      "id": "speed-selected",
+      "file": "speed-selected.svg",
+      "width": 154,
+      "height": 76,
+      "alpha": true,
+      "category": "interface",
+      "bytes": 1083,
+      "sha256": "8e55c1fd7254ba8d4314878b1e791292ce6a534e2a6987b16314a9fb693d0a24"
+    },
+    {
+      "id": "speed-track",
+      "file": "speed-track.svg",
+      "width": 320,
+      "height": 90,
+      "alpha": true,
+      "category": "interface",
+      "bytes": 1125,
+      "sha256": "1be84565813418186e8daa8d3a9faba30116a034b47aee67d54bc03a46be52ea"
+    },
+    {
+      "id": "spellbook",
+      "file": "spellbook.png",
+      "width": 1254,
+      "height": 1254,
+      "alpha": true,
+      "category": "symbol",
+      "bytes": 2302679,
+      "sha256": "c788fb6e8b7e2864b2b46874d4b15357f382c88b93fdf6bb80b734758389b150"
+    },
+    {
+      "id": "spin",
+      "file": "spin.svg",
+      "width": 320,
+      "height": 320,
+      "alpha": true,
+      "category": "interface",
+      "bytes": 1610,
+      "sha256": "00927a5608464e4accece0440c0547d936cb97b8396cc80943a80f964c102559"
+    },
+    {
+      "id": "staff",
+      "file": "staff.png",
+      "width": 1254,
+      "height": 1254,
+      "alpha": true,
+      "category": "symbol",
+      "bytes": 577780,
+      "sha256": "737e75e6001a9623a11907d415c822fd7c9fbd9490ee958880814c77fd3a4f0a"
+    },
+    {
+      "id": "wild",
+      "file": "wild.png",
+      "width": 1254,
+      "height": 1254,
+      "alpha": true,
+      "category": "symbol",
+      "bytes": 2024336,
+      "sha256": "9371e12fc5333f54956e51dfc64c84c783d07c415ff2406cd4396f0a87efbd98"
+    },
+    {
+      "id": "win-symbol",
+      "file": "win-symbol.svg",
+      "width": 240,
+      "height": 220,
+      "alpha": true,
+      "category": "effect",
+      "bytes": 1998,
+      "sha256": "913e7876c02d77b15402a1ab0617b7b2f371d289c89acc19d0060345ce97d847"
+    },
+    {
+      "id": "wizard-arm-air",
+      "file": "wizard-arm-air.png",
+      "width": 1672,
+      "height": 941,
+      "alpha": true,
+      "category": "wizard",
+      "bytes": 1423596,
+      "sha256": "7dca6f445caaeb80d663cf3f4b4ffb598ae4351f9c653c52720d2898ca50a025"
+    },
+    {
+      "id": "wizard-arm-earth",
+      "file": "wizard-arm-earth.png",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "category": "wizard",
+      "bytes": 2024397,
+      "sha256": "69a178aa0f9918d8716bf19378702cf151c1591a5f66e1d1ffe257342d597683"
+    },
+    {
+      "id": "wizard-arm-fire",
+      "file": "wizard-arm-fire.png",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "category": "wizard",
+      "bytes": 2087184,
+      "sha256": "e97d2586870e2e0ef2891253ff5fda8ce4fddd116e39503ce34dd6eb389a05ad"
+    },
+    {
+      "id": "wizard-arm-water",
+      "file": "wizard-arm-water.png",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "category": "wizard",
+      "bytes": 2077060,
+      "sha256": "fb753ba9b5a73ee09d978e09add0a3f63f1fbf3ff0c2016834f328d0454fefe8"
+    },
+    {
+      "id": "wizard-body",
+      "file": "wizard-body.png",
+      "width": 1024,
+      "height": 1536,
+      "alpha": true,
+      "category": "wizard",
+      "bytes": 2376376,
+      "sha256": "7fb0c844caf67aae0beaaa03d92da4370f3767fbbee7aa0a63c39c6d13c8bcdb"
+    },
+    {
+      "id": "wordmark",
+      "file": "wordmark.png",
+      "width": 2158,
+      "height": 729,
+      "alpha": true,
+      "category": "interface",
+      "bytes": 1852511,
+      "sha256": "78556cac017193304c8c753459a8991b6bef403c11f62aa1c80d8d57ec9d7cc7"
+    }
+  ]
+}
