@@ -1,0 +1,143 @@
+{
+  "format": "PCM mono 16-bit 24000 Hz",
+  "source": "tools/audio/build.mjs",
+  "license": "CC0-1.0",
+  "entries": [
+    {
+      "file": "music.wav",
+      "seconds": 32,
+      "loop": true,
+      "peak": 0.3860004078776453,
+      "rms": 0.08500000000000185,
+      "sha256": "234860edfd86f722c4aff2d737ed5dbb66d46c14817cc82928c5ee694ff4b1dd"
+    },
+    {
+      "file": "spin-start.wav",
+      "seconds": 0.18,
+      "loop": false,
+      "peak": 0.1767674788286979,
+      "rms": 0.06966934634488807,
+      "sha256": "156ef72af1b9815b6285b4b0945d766509ba6c3e5b63f7fbe02478e295692016"
+    },
+    {
+      "file": "spin-loop.wav",
+      "seconds": 2,
+      "loop": true,
+      "peak": 0.11415640984205867,
+      "rms": 0.05464887921998047,
+      "sha256": "63a5d6bdcd692217fe232d0ad92350c1f0d914b8aeda72cdf194fb2be911b60a"
+    },
+    {
+      "file": "reel-stop.wav",
+      "seconds": 0.14,
+      "loop": false,
+      "peak": 0.13723958381053664,
+      "rms": 0.05029259796792099,
+      "sha256": "fee31f31cf8520daf8e1fbe433626bf4ce348429ea2efce058920c29a0f6c637"
+    },
+    {
+      "file": "spin-end.wav",
+      "seconds": 0.2,
+      "loop": false,
+      "peak": 0.18219483715465254,
+      "rms": 0.051684010745644035,
+      "sha256": "c7bd140120247c24404b52c543ed1929fe3b416419794fe57eb197aaf2a8559a"
+    },
+    {
+      "file": "win.wav",
+      "seconds": 0.4,
+      "loop": false,
+      "peak": 0.22625048184490257,
+      "rms": 0.05030893298575785,
+      "sha256": "77ced459a10190273eeb9e008e5edc78bc65a7e34929acda9be467b458acc8d2"
+    },
+    {
+      "file": "count.wav",
+      "seconds": 0.4,
+      "loop": true,
+      "peak": 0.05494760338846286,
+      "rms": 0.024711776038965707,
+      "sha256": "8e7f8029f7eacf0c8e2f293fc52c78e49776b98dd64cfeafaf1d8e70849c0977"
+    },
+    {
+      "file": "water.wav",
+      "seconds": 4,
+      "loop": true,
+      "peak": 0.10993518349665202,
+      "rms": 0.029998130728967013,
+      "sha256": "3f4a2d68a28054e6ddd550ffe5819a3751d3427e65a40446b162231ea60b79c3"
+    },
+    {
+      "file": "air.wav",
+      "seconds": 1,
+      "loop": true,
+      "peak": 0.2800230414300096,
+      "rms": 0.05521613412152886,
+      "sha256": "67f33c9e7d2b52bd0745f351ccf642de68f1f8410cabc3a4de9b1b0f60bd2727"
+    },
+    {
+      "file": "earth-cast.wav",
+      "seconds": 0.62,
+      "loop": false,
+      "peak": 0.19663761638568922,
+      "rms": 0.08609564487039216,
+      "sha256": "1fb345b28d73cfb027a2a5cecbf43a47bade64cbd7691ccc627ae377326c6d58"
+    },
+    {
+      "file": "earth.wav",
+      "seconds": 1,
+      "loop": true,
+      "peak": 0.5334122795562413,
+      "rms": 0.14333942316874848,
+      "sha256": "86cf45940474c7953d36709d68017fe27d7af44b61a855c04ac44de8badcb876"
+    },
+    {
+      "file": "fire.wav",
+      "seconds": 1,
+      "loop": true,
+      "peak": 0.2842638291083899,
+      "rms": 0.06338759081969697,
+      "sha256": "1ccf5d37bd9be56989522a78d3eda986b84e33fb648a41b1c8b20ee311ae6efb"
+    },
+    {
+      "file": "celebration.wav",
+      "seconds": 1,
+      "loop": true,
+      "peak": 0.2575537042015547,
+      "rms": 0.08493563739679606,
+      "sha256": "37d42beb076e9d6b64f63ac340b4e5807964a6deff9b29bbee07fe231a021c5c"
+    },
+    {
+      "file": "bonus.wav",
+      "seconds": 0.6,
+      "loop": false,
+      "peak": 0.24627138752545005,
+      "rms": 0.05475522587858096,
+      "sha256": "ec2c93ec5b63484ee09cb3ba4b544de55ecf313201799a290b8595572089378b"
+    },
+    {
+      "file": "wild-upgrade.wav",
+      "seconds": 0.24,
+      "loop": false,
+      "peak": 0.29340064588891623,
+      "rms": 0.06126507898915182,
+      "sha256": "7ecdc5feae45fec35fe92150fa9891dbaa71cf715f0170daaed75a99ff0e0e68"
+    },
+    {
+      "file": "fire-flight.wav",
+      "seconds": 1.2,
+      "loop": true,
+      "peak": 0.3571110230700916,
+      "rms": 0.07687096627870524,
+      "sha256": "8fc9162c11cd2236a7f7c01b038a88221b89f1ff6c8a95e2c5ea6d4b29d92b6b"
+    },
+    {
+      "file": "fire-burn.wav",
+      "seconds": 1.6,
+      "loop": true,
+      "peak": 0.31082630440193404,
+      "rms": 0.06503174113300522,
+      "sha256": "6b79e586bff73df61ca787ff95f09a7c19c277dd1ca8ffcb1420c8cfdda1082d"
+    }
+  ]
+}
